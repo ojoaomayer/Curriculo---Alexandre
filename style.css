@@ -1,3 +1,41 @@
-.profile, table{
-    margin-top: 50px;
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Cor de fundo suave */
+    color: #333; /* Cor do texto */
+}
+
+header {
+    background-color: #343a40; /* Cor do cabeçalho */
+}
+
+.navbar-brand,
+.nav-link {
+    color: #000000; /* Cor do texto no cabeçalho */
+}
+
+.nav-link:hover {
+    color: #ffc107; /* Cor ao passar o mouse */
+}
+
+.profile-sobre {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Sombra sutil nas imagens */
+    border-radius: 10px; /* Bordas arredondadas */
+}
+
+.txtsobre {
+    background-color: #ffffff; /* Fundo branco para o texto */
+    padding: 20px; /* Espaçamento interno */
+    margin: 10px; /* Margem entre seções */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra no texto */
+}
+
+h2 {
+    color: #343a40; /* Cor dos títulos */
+    margin-bottom: 15px; /* Espaçamento abaixo do título */
+}
+
+p {
+    line-height: 1.6; /* Aumentar a altura da linha para melhor legibilidade */
 }

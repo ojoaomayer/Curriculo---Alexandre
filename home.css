@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Cor de fundo suave */
+    color: #333; /* Cor do texto */
+}
+
+header {
+    background-color: #343a40; /* Cor do cabeçalho */
+}
+
+.navbar-brand, .nav-link {
+    color: #000000; /* Cor do texto no cabeçalho */
+}
+
+.nav-link:hover {
+    color: #ffc107; /* Cor ao passar o mouse */
+}
+
+.profile {
+    border-radius: 10px; /* Bordas arredondadas para a imagem */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Sombra sutil na imagem */
+}
+
+.table {
+    margin-top: 20px; /* Espaçamento acima da tabela */
+}
+
+.card {
+    border: none; /* Remover borda padrão */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra leve para os cards */
+}
+
+.card-title {
+    color: #343a40; /* Cor dos títulos dos cards */
+}
+
+.card-text {
+    color: #555; /* Cor do texto dos cards */
+}
+
+h4 {
+    margin-bottom: 20px; /* Espaçamento abaixo dos títulos */
+}
